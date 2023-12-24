@@ -41,7 +41,7 @@ print(count)
 f.close()
 ```
 ### OUTPUT:
-![image](https://github.com/PuliNagaNeeraj/command-line-arguments-to-count-word/assets/138849173/da3061da-197f-4519-9e58-a238f7dd17eb)
+![Screenshot 2023-12-24 152242](https://github.com/PuliNagaNeeraj/command-line-arguments-to-count-word/assets/138849173/544d67fe-fb55-40d0-ac9d-47a40de1ad52)
 ![Screenshot 2023-12-24 152422](https://github.com/PuliNagaNeeraj/command-line-arguments-to-count-word/assets/138849173/6b18d0d4-7c23-4cb8-a2e1-54b5c6cc354c)
 
 
